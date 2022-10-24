@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+    .fusca, .opala{
+        overflow-y: auto;
+        Scrollbar-width: none;
+        max-height: 180px;
+
+    }
+    }
